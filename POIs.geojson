@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Waterdeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.781679480723, 38.52522232788647]
+      }
+    }
+  ]
+}
