@@ -10,6 +10,16 @@
         "type": "Point",
         "coordinates": [-74.781679480723, 38.52522232788647]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Neverwinter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.13065473082992, 42.39102765244618]
+      }
     }
   ]
 }

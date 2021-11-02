@@ -65,7 +65,7 @@ var map = new ol.Map({
         declutter: true,
         source: new ol.source.Vector({
         format: new ol.format.GeoJSON(),
-        url: 'https://raw.githubusercontent.com/BeauNouvelle/faerun/main/POIs.geojson',
+        url: 'https://raw.githubusercontent.com/BeauNouvelle/faerun/main/cities.geojson',
       }),
       style: function(feature) {
         return new ol.style.Style({
